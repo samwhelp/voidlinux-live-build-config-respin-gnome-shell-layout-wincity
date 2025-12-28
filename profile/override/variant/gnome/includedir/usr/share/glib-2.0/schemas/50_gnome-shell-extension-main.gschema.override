@@ -2,8 +2,9 @@
 
 [org.gnome.shell]
 disable-user-extensions=false
-disabled-extensions=@as []
-enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'status-icons@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'window-list@gnome-shell-extensions.gcampax.github.com', 'dash-to-dock@micxgx.gmail.com']
+disabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'window-list@gnome-shell-extensions.gcampax.github.com', 'dash-to-dock@micxgx.gmail.com']
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'blur-my-shell@aunetx', 'arcmenu@arcmenu.com', 'status-icons@gnome-shell-extensions.gcampax.github.com', 'dash-to-panel@jderose9.github.com']
+
 
 
 

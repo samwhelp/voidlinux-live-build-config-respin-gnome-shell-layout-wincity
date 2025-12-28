@@ -1,0 +1,3 @@
+blur-my-shell@aunetx
+arcmenu@arcmenu.com
+dash-to-panel@jderose9.github.com

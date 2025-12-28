@@ -1,4 +1,5 @@
 desktop-environment-gnome-shell-extensions-cli
+desktop-environment-gnome-shell-extensions-install
 tool-sublime-text-install
 base-dconf-system-db-init
 base-gsettings-schema-compile
