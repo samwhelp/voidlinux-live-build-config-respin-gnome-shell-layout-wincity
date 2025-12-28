@@ -98,9 +98,9 @@ sys_gnome_shell_extensions_each_install_via_gext () {
 	echo
 
 
-	#sys_gnome_shell_extensions_each_copy_to_skel_dir "${the_extension_id}"
+	sys_gnome_shell_extensions_each_copy_to_skel_dir "${the_extension_id}"
 
-	sys_gnome_shell_extensions_each_dconf_load_config "${the_extension_id}"
+	#sys_gnome_shell_extensions_each_dconf_load_config "${the_extension_id}"
 
 }
 
