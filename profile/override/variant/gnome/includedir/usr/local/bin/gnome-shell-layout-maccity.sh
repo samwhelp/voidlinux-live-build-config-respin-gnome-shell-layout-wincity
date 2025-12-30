@@ -16,8 +16,11 @@
 
 
 REF_GNOME_SHELL_EXTENSIONS_ENABLE=(
+	"user-theme@gnome-shell-extensions.gcampax.github.com"
+	"status-icons@gnome-shell-extensions.gcampax.github.com"
 	"blur-my-shell@aunetx"
 	"arcmenu@arcmenu.com"
+	"date-menu-formatter@marcinjakubowski.github.com"
 	"dash-to-dock@micxgx.gmail.com"
 )
 

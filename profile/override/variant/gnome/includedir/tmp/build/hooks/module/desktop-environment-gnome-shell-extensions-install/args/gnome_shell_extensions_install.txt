@@ -1,4 +1,5 @@
 blur-my-shell@aunetx
 arcmenu@arcmenu.com
+date-menu-formatter@marcinjakubowski.github.com
 dash-to-panel@jderose9.github.com
 dash-to-dock@micxgx.gmail.com
